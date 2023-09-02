@@ -38,6 +38,7 @@ Create a branch, make changes to files, add and commit these changes, then push 
 ### 4. Collaboration: Be Up to Date
 
 Update the `README.md` from GitHub's web interface, then locally fetch these changes, create a file documenting the Git command used, add, commit, and push it.
+How to be up to date on git.
 
 ### 5. HAAA What Did You Do???
 
